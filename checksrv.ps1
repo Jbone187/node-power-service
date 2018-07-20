@@ -8,7 +8,7 @@ param
 
 Write-Host $service
 
-$servers = Get-Content -Path H:\Coding\node\servers.txt
+$servers = Get-Content -Path 
 
 if($servers){
 
