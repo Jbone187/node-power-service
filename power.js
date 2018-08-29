@@ -1,6 +1,5 @@
 const shell = require('node-powershell');
 
-
 let question = 'What is the Name of the Service';
 
 process.stdout.write(`${question}: `); 
