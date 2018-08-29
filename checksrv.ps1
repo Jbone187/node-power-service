@@ -5,7 +5,6 @@ param
 [string]$service
 )
 
-
 Write-Host $service
 
 $servers = Get-Content -Path 
